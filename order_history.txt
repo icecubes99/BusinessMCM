@@ -1,0 +1,1 @@
+Order: 12 	Product: Relx 	Total Price: $12000.0
